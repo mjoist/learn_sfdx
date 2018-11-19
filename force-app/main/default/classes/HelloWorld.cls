@@ -4,6 +4,7 @@ public class HelloWorld {
         return HelloWorld.pong();
     } 
     private static string pong(){
+         // Comment to test issues. 
          vpong = 'Hello Ping hier ist Pong';
          return vpong;
     }
