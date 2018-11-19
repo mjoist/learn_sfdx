@@ -5,7 +5,7 @@
             "sourcePath": "/home/marcel.joist/sfdx_projects/learn_sfdx/force-app",
             "isDirectory": true,
             "size": 8,
-            "modifiedTime": 1542659793140,
+            "modifiedTime": 1542664994840,
             "changeTime": 1542659793140,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
@@ -62,14 +62,13 @@
         {
             "sourcePath": "/home/marcel.joist/sfdx_projects/learn_sfdx",
             "isDirectory": true,
-            "size": 130,
-            "modifiedTime": 1542660134934,
-            "changeTime": 1542660134934,
-            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "size": 138,
+            "modifiedTime": 1542663398540,
+            "changeTime": 1542663398540,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -88,14 +87,14 @@
     [
         "/home/marcel.joist/sfdx_projects/learn_sfdx/force-app/main/default/classes/HelloWorld.cls",
         {
-            "state": "u",
             "sourcePath": "/home/marcel.joist/sfdx_projects/learn_sfdx/force-app/main/default/classes/HelloWorld.cls",
             "isDirectory": false,
+            "size": 285,
+            "modifiedTime": 1542664223157,
+            "changeTime": 1542664223157,
+            "contentHash": "4407cb625d6e039cde6f4bd891d0cb30eccf3a8e",
             "isMetadataFile": false,
-            "size": 248,
-            "modifiedTime": 1542662988889,
-            "changeTime": 1542662988889,
-            "contentHash": "794489453a7ebb3b1f273bfb68f4a1e87dffd102"
+            "state": "u"
         }
     ],
     [
@@ -103,10 +102,10 @@
         {
             "sourcePath": "/home/marcel.joist/sfdx_projects/learn_sfdx/force-app/main/default/classes",
             "isDirectory": true,
-            "size": 74,
-            "modifiedTime": 1542661821522,
-            "changeTime": 1542661821522,
-            "contentHash": "57325e53cc70a4f00cfad981c15b572c6c83b9c4",
+            "size": 164,
+            "modifiedTime": 1542665529779,
+            "changeTime": 1542665529779,
+            "contentHash": "04d744ae69312fd8e26c6902ced5d7c70cf798ad",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -147,6 +146,32 @@
             "changeTime": 1542662253002,
             "contentHash": "6868db67e3ea9ab08387dafcdccb8461d8764cfb",
             "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/marcel.joist/sfdx_projects/learn_sfdx/force-app/main/default/classes/HelloWorldTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/home/marcel.joist/sfdx_projects/learn_sfdx/force-app/main/default/classes/HelloWorldTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1542665595404,
+            "changeTime": 1542665595404,
+            "contentHash": "4410c7f5d017eaf1d52a4cea75db424c3b7878ce"
+        }
+    ],
+    [
+        "/home/marcel.joist/sfdx_projects/learn_sfdx/force-app/main/default/classes/HelloWorldTest.cls-meta.xml",
+        {
+            "sourcePath": "/home/marcel.joist/sfdx_projects/learn_sfdx/force-app/main/default/classes/HelloWorldTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 182,
+            "modifiedTime": 1542665529782,
+            "changeTime": 1542665529782,
+            "contentHash": "91e548b97f287543f7f53b8404887ab4956d3733",
+            "isMetadataFile": true,
             "state": "u"
         }
     ]
